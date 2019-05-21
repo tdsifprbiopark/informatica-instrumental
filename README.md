@@ -2,6 +2,6 @@
 ![forks](https://img.shields.io/github/forks/tdsifprbiopark/informatica-instrumental.svg)
 ![stars](https://img.shields.io/github/stars/tdsifprbiopark/informatica-instrumental.svg)
 ![license](https://img.shields.io/github/license/tdsifprbiopark/informatica-instrumental.svg)
-![social](https://img.shields.io/twitter/url/https/github.com/tdsifprbiopark/informatica-instrumental.svg?style=social)
+[![social](https://img.shields.io/twitter/url/https/github.com/tdsifprbiopark/informatica-instrumental.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Ftdsifprbiopark%2Finformatica-instrumental)
 # :computer: informatica-instrumental :coffee:
 temp commit.
